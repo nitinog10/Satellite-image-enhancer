@@ -1,0 +1,5 @@
+{
+  "name": "Satellite Image Super Resolution",
+  "description": "An AI-powered tool to enhance and upscale the resolution of satellite images, revealing greater detail and clarity using a two-step descriptive generation process.",
+  "requestFramePermissions": []
+}
